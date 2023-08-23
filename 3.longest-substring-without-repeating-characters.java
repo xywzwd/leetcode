@@ -4,6 +4,8 @@
  * [3] Longest Substring Without Repeating Characters
  */
 
+// time: O(n)
+// space O(n)
 // @lc code=start
 
 import java.util.HashMap;
