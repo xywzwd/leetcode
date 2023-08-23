@@ -5,6 +5,8 @@
  */
 
 // @lc code=start
+// key point: hanshmap
+// time: O(n) space: O(n)
 
 import java.util.HashMap;
 import java.util.Map;

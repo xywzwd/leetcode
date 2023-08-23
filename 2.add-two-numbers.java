@@ -15,6 +15,8 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+// key point: 1. new list with dummy node 2. handle carry and current value
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode p1 = l1, p2 = l2;

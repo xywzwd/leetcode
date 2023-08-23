@@ -6,6 +6,7 @@
 
 // time: O(n)
 // space O(n)
+// key point: sliding window + two points
 // @lc code=start
 
 import java.util.HashMap;
